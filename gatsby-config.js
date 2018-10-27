@@ -17,5 +17,8 @@ module.exports = {
       },
     },
     'gatsby-plugin-offline',
+
+    // Add typescript stack into webpack
+    `gatsby-plugin-typescript`,
   ],
 }
