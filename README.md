@@ -1,10 +1,7 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# gatsby-v2-starter-typescript
+The Gatsby v2 starter with TypeScript.
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
-
-## Install
-
+## Getting started
 Make sure that you have the Gatsby CLI program installed:
 ```sh
 npm install --global gatsby-cli
@@ -12,7 +9,7 @@ npm install --global gatsby-cli
 
 And run from your CLI:
 ```sh
-gatsby new gatsby-example-site
+gatsby new gatsby-example-site https://github.com/tgoto63/gatsby-v2-starter-typescript
 ```
 
 Then you can run it by:
@@ -20,7 +17,3 @@ Then you can run it by:
 cd gatsby-example-site
 gatsby develop
 ```
-
-## Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
